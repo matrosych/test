@@ -1,0 +1,33 @@
+[
+  {
+    "type" : "Car",
+    "parameters" : {
+      "name" : "BMV",
+      "actions" : {
+        "move": {},
+        "music": true
+      }
+    }
+  },
+  {
+    "type" : "Boat",
+    "parameters" : {
+      "name" : "Boat",
+      "actions" : {"move" : {}}
+    }
+  },
+  {
+    "type" : "Helicopter",
+    "parameters" : {
+      "name" : "Helicopter",
+      "actions" : {"move" : {}}
+    }
+  },
+  {
+    "type" : "Car",
+    "parameters" : {
+      "name" : "Kamaz",
+      "actions" : {"move" : {},"emptyLoads" : {}}
+    }
+  }
+]
